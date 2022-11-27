@@ -11,7 +11,7 @@ CSS_FILE = STYLES_DIR / "main.css"
 
 
 # --- GENERAL SETTINGS ---
-STRIPE_CHECKOUT = "https://buy.stripe.com/MnRinrpySoEKsP"
+STRIPE_CHECKOUT = "https://buy.stripe.com/6oEdRj2Jp6I29qw3cd"
 CONTACT_EMAIL = "YOUREMAIL@EMAIL.COM"
 DEMO_VIDEO = "https://youtu.be/PmJ9rkKGqrI"
 PRODUCT_NAME = "Excel Add-In: MyToolBelt"
