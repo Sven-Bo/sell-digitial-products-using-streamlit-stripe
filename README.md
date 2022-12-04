@@ -8,8 +8,7 @@ Learn how to make money online using Python! In this video, you will see how to 
 ![Demo](./assets/demo.png?raw=true "Screenshot Website")
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/L_5IUq0SgM8/0.jpg)](https://youtu.be/L_5IUq0SgM8)
 
 
 ## About Me
